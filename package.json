@@ -23,7 +23,10 @@
   "dependencies": {
     "chai": "^4.2.0",
     "colors": "^1.4.0",
-    "mocha": "^6.2.2",
+    "debug": "^3.2.7",
+    "flat": "^6.0.1",
+    "mkdirp": "^1.0.4",
+    "mocha": "^10.7.0",
     "semver": "^6.3.0"
   }
 }
